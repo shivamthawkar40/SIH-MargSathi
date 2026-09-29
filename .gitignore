@@ -1,0 +1,40 @@
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Kotlin
+.kotlin/
+
+# Local configuration
+local.properties
+
+# Native build
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Signing files
+*.jks
+*.keystore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+build-error.txt
+manifest-error.txt
+
+# Old / duplicate project
+Dead Reckoning/

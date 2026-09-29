@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">INTELLINAV</string>
+    <string name="tagline">Seamless Navigation Beyond GNSS</string>
+    <string name="sih_info">SIH 2026 • ISRO Problem Statement SIH26168</string>
+    <string name="org_name">Department of Space / ISRO</string>
+</resources>
